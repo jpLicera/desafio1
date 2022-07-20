@@ -1,0 +1,9 @@
+.mainContainer {
+  height: 100vh;
+  background-color: #fbfbfb;
+  opacity: 1;
+  background-image: radial-gradient(#444bf7 1.05px, transparent 1.05px), radial-gradient(#696ef8 1.05px, #fbfbfb 1.05px);
+  background-size: 42px 42px;
+  background-position: 0 0, 21px 21px;
+}
+
