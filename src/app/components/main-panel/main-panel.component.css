@@ -1,0 +1,9 @@
+.separator {
+  color: #444bf7;
+  border-width: 2px;
+  opacity: 1;
+}
+
+.image {
+  max-height: 500px;
+}
